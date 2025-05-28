@@ -76,7 +76,7 @@ $$\frac{N_{rj}}{N_n+N_d}=\frac{P_jG_j\cdot G_t\cdot\lambda^2\cdot\gamma_j}{K_g\c
 
 则可得导引头在热噪声和地杂波背景中跟踪自卫干扰源的最大距离为
 
-$$R_{j\max}=\left[\frac{\frac{P_j}{B_j}\cdot G_j\cdot G_t\cdot\lambda^2\cdot\gamma_j}{(4\pi)^2\cdot(kT_s+N_d)\cdot D_J\cdot K_g\cdot L_r}\right]^{\frac12}$$
+$R_{j\max}=\left[\frac{\frac{P_j}{B_j}\cdot G_j\cdot G_t\cdot\lambda^2\cdot\gamma_j}{(4\pi)^2\cdot(kT_s+N_d)\cdot D_J\cdot K_g\cdot L_r}\right]^{\frac12}$
 
 式中：$P_{j}/B_{j}$为干扰机发射功率密度；$D_{j}$为导引头跟踪干扰源的检测识别系数。
 当导引头被动跟踪干扰源时，角跟踪误差$σ_\mathrm{\Theta t}$与接收机内的干扰功率和机内热噪声功率与地杂波功率和的比值的平方根成反比,即：
