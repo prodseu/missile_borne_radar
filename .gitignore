@@ -1,0 +1,10 @@
+# Local exports
+*.pdf
+*.docx
+*.pptx
+exports/
+
+# Editor files
+.vscode/
+.idea/
+.DS_Store
